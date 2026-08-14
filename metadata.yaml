@@ -1,4 +1,11 @@
 name: astrbot_plugin_tg_download
-description: "TG 文件自动下载到服务器（Aria2 + Alist）"
-author: 小狐狐
+display_name: TG 文件下载
+short_desc: Telegram 文件自动下载到服务器（Aria2 + Alist）
+description: "Telegram 文件自动下载插件：识别 document/video/audio/photo/video_note 消息，≤20MB 自动下载到 Aria2（按类型分类到 Alist），20MB~2GB 询问主人存本地还是服务器，>2GB 提示电脑端处理。支持环境变量配置。"
+author: Selffox
 version: "1.2.0"
+repo: https://github.com/Selffox/astrbot_plugin_tg_download
+tags:
+  - 工具
+  - Telegram
+  - 下载
