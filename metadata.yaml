@@ -1,0 +1,4 @@
+name: astrbot_plugin_tg_download
+description: "TG 文件自动下载到服务器（Aria2 + Alist）"
+author: 小狐狐
+version: "1.2.0"
