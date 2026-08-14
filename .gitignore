@@ -1,0 +1,13 @@
+# 敏感信息（绝不提交）
+.env
+.env.*
+*.token
+*.session
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 其他
+.DS_Store
