@@ -1,5 +1,11 @@
 # astrbot_plugin_tg_download
 
+![GitHub stars](https://img.shields.io/github/stars/Selffox/astrbot_plugin_tg_download?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/Selffox/astrbot_plugin_tg_download?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square)
+![AstrBot](https://img.shields.io/badge/AstrBot-4.x-purple?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.2.0-green?style=flat-square)
+
 TG 文件自动下载插件：把 Telegram 消息里的文件（文档/视频/音频/图片）自动下载到服务器，通过 Aria2 + Alist 统一管理。
 
 ## ✨ 功能
